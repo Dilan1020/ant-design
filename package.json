@@ -106,7 +106,7 @@
   "dependencies": {
     "@ant-design/css-animation": "^1.7.2",
     "@ant-design/icons": "^4.2.1",
-    "@ant-design/react-slick": "~0.26.1",
+    "@ant-design/react-slick": "^0.28.2",
     "array-tree-filter": "^2.1.0",
     "classnames": "^2.2.6",
     "copy-to-clipboard": "^3.2.0",
@@ -126,7 +126,7 @@
     "rc-mentions": "~1.2.0",
     "rc-menu": "~8.3.0",
     "rc-notification": "~4.4.0",
-    "rc-pagination": "~2.2.5",
+    "rc-pagination": "^3.1.9",
     "rc-picker": "github:Dilan1020/picker",
     "rc-progress": "~3.0.0",
     "rc-rate": "~2.7.0",
